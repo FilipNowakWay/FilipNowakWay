@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FilipNowakWay
 - 👀 I’m interested in Data Sciencie 
-- 🌱 I’m currently learning Python and machine learning 
+- 🌱 I’m currently learning Python and webdev
 - 📫 How to reach me mail: filipnowakkoscian@gmail.com
 
 <!---

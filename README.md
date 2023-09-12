@@ -10,12 +10,12 @@ Feel free to reach out to me via email: [filipnowakkoscian@gmail.com](mailto:fil
 Here are some of the technologies and tools I work with:
 
 - Python 🐍
-- SQL 🗃️
-- Machine Learning 🤖
-- Data Analysis 📊
+- HTML5🌐, CSS🎨, JavaScript📜
 - Linux Administration 🐧
 - Git 🌳
-
+- SQL 🗃️ :  - Mysql
+            - PostgreSQL  
+  
 ## 🚀 Projects
 Check out some of my projects on my GitHub repositories. I'm constantly working on exciting projects and learning new things along the way.
 

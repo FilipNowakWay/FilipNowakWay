@@ -22,7 +22,9 @@ Check out some of my projects on my GitHub repositories. I'm constantly working 
 ## 🌐 Let's Connect
 Connect with me on social media platforms and professional networks:
 
-- LinkedIn: [Filip Nowak](https://www.linkedin.com/in/filip-nowak-2a2222228/)
+- [LinkedIn](https://www.linkedin.com/in/filip-nowak-2a2222228/)
+- [Mail](filipnowakwork@gmail.com)
+
 
 Looking forward to connecting with you! 😄
 

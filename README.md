@@ -1,34 +1,35 @@
-# Welcome to FilipNowakWay's GitHub Profile! 👋
+<h1 align="center">Hi there, I'm 👋</h1>
+<h3 align="center">🚀 A developer crafting things in the terminal and on the web</h3>
 
-## 🌱About Me
-Hey there! I'm Filip Nowak, and I'm passionate about Data Science, Python programming, and Linux administration. I love working with data and discovering meaningful insights from it.
+---
 
-## 📫 Get in Touch
-Feel free to reach out to me via email: [filipnowakkoscian@gmail.com](mailto:filipnowakkoscian@gmail.com). I'm always open to interesting discussions, collaboration opportunities, or any questions you may have.
+### 🛠️ Tech Stack & Tools
 
-## 💻 Technologies and Tools
-Here are some of the technologies and tools I work with:
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyprland-333333?style=flat&logo=wayland&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
-- Python 🐍
-- HTML5🌐, CSS🎨, JavaScript📜
-- Linux Administration 🐧
-- Git 🌳
-- SQL 🗃️ :  - Mysql
-            - PostgreSQL  
-  
-## 🚀 Projects
-Check out some of my projects on my GitHub repositories. I'm constantly working on exciting projects and learning new things along the way.
+---
 
-## 🌐 Let's Connect
-Connect with me on social media platforms and professional networks:
+### 📈 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/filip-nowak-2a2222228/)
-- [Mail](filipnowakwork@gmail.com)
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-Looking forward to connecting with you! 😄
+---
 
-<!---
-FilipNowakWay/FilipNowakWay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ⚡ Fun Facts
+- 🐧 My daily driver runs on Arch Linux, Hyprland, and Neovim (LazyVim).
+- 🎮 I enjoy playing strategic video games.
+- ⌨️ Typing away on a custom layout setup.

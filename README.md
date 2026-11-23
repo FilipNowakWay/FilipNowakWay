@@ -30,6 +30,5 @@
 ---
 
 ### ⚡ Fun Facts
-- 🐧 My daily driver runs on Arch Linux, Hyprland, and Neovim (LazyVim).
+- 🐧 My daily driver runs on Arch Linux, Niri, and Neovim (LazyVim).
 - 🎮 I enjoy playing strategic video games.
-- ⌨️ Typing away on a custom layout setup.
